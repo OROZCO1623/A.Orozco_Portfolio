@@ -21,6 +21,8 @@
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#deployment)
 
 - [👥 Authors](#authors)
 - [🤝 Contributing](#contributing)
@@ -62,6 +64,12 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
+
 ### Prerequisites
 
 1. Web Browser
@@ -97,6 +105,36 @@ To run the project, do the following:
 
 A. Use VS CODE live Server extension<br>
 B. Copy the Path of the HTML file and open it in the Web Browser
+
+### Run tests
+
+To run tests, such as linters, run the following command on git bash(Webhint and StyleLint Linters config. must be preinsatlled):
+
+For WEBHINT
+
+```sh
+  npx hint .
+```
+
+For StyleLint
+
+```sh
+npx stylelint "**/*.{css,scss}"
+```
+
+### Deployment
+
+You can deploy this project using GitHub Pages
+
+<!--
+Example:
+
+```sh
+
+```
+ -->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
