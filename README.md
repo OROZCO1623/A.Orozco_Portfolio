@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h1><b>My Portfolio:<br> "First Mobile Version" </br></h1>
+  <h1><b>My Portfolio:<br> "Complete Mobile Version" </br></h1>
   <h2> By: Alejandro Orozco <h2>  
 </div>
 <br>
@@ -33,7 +33,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 My portfolio: <br >First Mobile Project <a name="about-project"></a>
+# 📖 My portfolio: <br >First Mobile Finished Project <a name="about-project"></a>
 
 > This is the first version of a portfolio project, using HTML & CSS, and linters check ups, which later on will be my enhanced perosnal Portfolio...
 
@@ -58,8 +58,8 @@
 
 ### Key Features <a name="key-features"></a>
 
-- Added HTML files
-- Added CSS files
+- Added HTML files with finished Verison
+- Added CSS files with finished Version
 - Used linters to ensure standarization
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
